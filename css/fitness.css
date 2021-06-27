@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.heading{
+	color: red;
+	font-family: monospace;
+}
+.span{
+	font-family: cursive;
+	word-spacing: 5px;
+	font-size: 50px;
+	font-weight: 200;
+	color: #111;
+
+}
+  .carousel-inner img {
+    width: 90%;
+    height: 80vh;
+}
